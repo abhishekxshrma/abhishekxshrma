@@ -85,7 +85,7 @@ Projects built while learning Node.js, Express, and MongoDB.
 
 ## 🎯 2026 Goals
 
-- Solve 500+ DSA problems
+- Solve 250+ DSA problems
 - Learn System Design fundamentals
 - Build 5 strong full-stack projects
 - Secure a software engineering placement
