@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science Engineering (2nd Year)
+- 🎓 B.Tech Computer Science Engineering
 - 💻 Interested in Backend Development and Software Engineering
 - 📚 Currently learning Data Structures, Algorithms, and System Design
 - 🎯 Goal: Crack top software engineering placements
