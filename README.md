@@ -1,5 +1,5 @@
 <div align="center">
-<img src=""C:\Users\lenovo\Downloads\m\c50c5f7c-097c-46d7-b043-16ed75df89db.png"" />
+<img src="banner.png" width="100%" />
 # Hi 👋, I'm Abhishek Sharma
 
 ### B.Tech CSE Student | Backend Learner | DSA Enthusiast | Future Software Engineer
