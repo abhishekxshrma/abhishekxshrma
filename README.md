@@ -53,11 +53,9 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishekxshrma&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishekxshrma&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekxshrma&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekxshrma&layout=compact&theme=tokyonight" />
 </p>
 
 ---
