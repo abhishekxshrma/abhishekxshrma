@@ -49,7 +49,6 @@
 
 ---
 
-## 📈 GitHub Statistics
 
 ## 📈 GitHub Statistics
 
