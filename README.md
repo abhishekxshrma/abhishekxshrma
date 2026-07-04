@@ -75,9 +75,6 @@
 ### 🏥 Smart Medical Appointment System
 Full-stack appointment booking system with patient and doctor management.
 
-### 📚 DSA Practice Repository
-Collection of solved problems and algorithms for interview preparation.
-
 ### 🌐 Backend Learning Projects
 Projects built while learning Node.js, Express, and MongoDB.
 
